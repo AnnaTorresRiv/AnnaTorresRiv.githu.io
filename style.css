@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color:rgb(173, 179, 236);
 }
 
 .navbar-collapse {
@@ -25,7 +25,7 @@ h1 {
 }
 
 .seccion-oscura {
-  color: white;
+  color: rgb(235, 189, 189);
   background-color: #1b1b32;
 }
 
@@ -114,7 +114,7 @@ h1 {
 }
 
 .experiencia .columna:hover {
-  color: white;
+  color:rgb(129, 218, 198);
   background-color: #1b1b32;
 }
 
